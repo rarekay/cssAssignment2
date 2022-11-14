@@ -1,0 +1,33 @@
+/* Styling first section */
+.firstSection{
+    color: green;
+    font-size: 14px;
+    padding: 8px;
+    margin-left: 16px;
+    border-style: none;
+
+}
+
+/* Styling for second section */
+.secondSection{
+    color: red;
+    font-size: 14px;
+    padding: 8px;
+    margin-left: 16px;
+    border-style: none;
+
+}
+
+/* Styling for third section */
+.thirdSection{
+    color: blue;
+    font-size: 14px;
+    padding: 8px;
+    margin-left: 16px;
+    border-style: none;
+}
+
+h1 {
+    font-size: 18px;
+    padding-left: 8px;
+}
